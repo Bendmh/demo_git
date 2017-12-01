@@ -1,0 +1,2 @@
+1 Ce texte permet de vérifier si j'ai bien compris comment il faut faire\n
+2 On va vérifier si les caractères spécifiques fonctionne
