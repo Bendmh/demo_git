@@ -2,3 +2,4 @@
 2 On va vérifier si les caractères spécifiques fonctionne
 3 Je dois donc utiliser une push pour envoyer et un pull pour récupérer
 4 j'espère que je n'oublierai pas tout ça
+5 je change le texte de github 
