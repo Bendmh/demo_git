@@ -1,2 +1,4 @@
 1 Ce texte permet de vérifier si j'ai bien compris comment il faut faire\n
 2 On va vérifier si les caractères spécifiques fonctionne
+3 Je dois donc utiliser une push pour envoyer et un pull pour récupérer
+4 j'espère que je n'oublierai pas tout ça
